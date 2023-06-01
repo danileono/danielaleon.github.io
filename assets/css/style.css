@@ -1,0 +1,73 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+
+
+header {
+  background-image: url("../img/bg-hero.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
+.resume-item {
+  padding: 30px;
+  background: #4681c9;
+  -webkit-transition: .3s all ease;
+  -o-transition: .3s all ease;
+  transition: .3s all ease;
+  border: 4px solid transparent;
+  border-radius: 7px; }
+
+
+.icon-calendar {
+    font-family: 'icomoon';
+  }
+
+
+.descripcionCard{
+  margin-bottom: 2.6rem;
+}
+
+.sectionEducacion{
+padding-left: 1rem;
+padding-right: 1rem;
+padding-top: 2rem;
+padding-bottom: 2rem;
+background-color: rgb(220, 220, 220);
+}
+
+.sectionExperiencia{
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  }
+  
+  a:hover {
+    background-color: gold;
+  }
+
+.gallery1{
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.galeria{
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+}
+
+.galeria img{
+  max-width: 400px;
+  padding: 1rem;
+}
