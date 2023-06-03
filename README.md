@@ -5,7 +5,7 @@ https://github.com/danileono/danielaleon.github.io
 https://danileono.github.io/danielaleon.github.io/
 
 # Le hice cambios a los siguientes repositorios y pull requests:
-https://github.com/macgaete/macgaete.github.io/pull/2
+https://github.com/macgaete/macgaete.github.io
 https://github.com/AnaSelomit/AnaSelomit.github.io
 
 # y a este repositorio le hice cambio desde una rama nueva (a modo de prueba):
