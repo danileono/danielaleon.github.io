@@ -1,9 +1,12 @@
-# danielaleon.github.io
-repositorio para la prueba
+# Link de mi repositorio:
+https://github.com/danileono/danielaleon.github.io
 
-# Le hice cambios a los siguientes repositiorios:
-https://github.com/AnaSelomit/AnaSelomit.github.io/pull/1
+# Link de mi pagina:
+https://danileono.github.io/danielaleon.github.io/
+
+# Le hice cambios a los siguientes repositiorios y pull requests:
 https://github.com/macgaete/macgaete.github.io/pull/2
+https://github.com/AnaSelomit/AnaSelomit.github.io
 
-# A este repositorio le hice cambio desde una rama nueva (a modo de prueba):
-https://github.com/danileono/chesib.github.io/commits/rama-card-iguana
+# y a este repositorio le hice cambio desde una rama nueva (a modo de prueba):
+https://github.com/danileono/chesib.github.io 
